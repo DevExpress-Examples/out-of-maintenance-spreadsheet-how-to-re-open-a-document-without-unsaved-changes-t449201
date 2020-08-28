@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # Spreadsheet - How to re-open a document without unsaved changes  
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t449201)**
+**[[Run Online]](https://codecentral.devexpress.com/t449201/)**
 <!-- run online end -->
 
 
